@@ -164,7 +164,7 @@ button {
     background-color: white;
     color: purple;
 }
-label {
+.label {
     display: block;
     margin-top: 30px;
 }
@@ -187,4 +187,21 @@ button {
     justify-content: center;
     margin-left: 45%;
     
+}
+.img {
+    align-items: center;
+    justify-content: center;
+    margin-left: 45%;
+    width: 50px;
+    border-radius: 50px;
+}
+fieldset {
+    background-color: #EEE;
+margin-bottom: 20px;
+border: 5px solid #ff0000;
+
+}
+legend {
+    background-color: #ff0000;
+    color: #EEE;
 }
